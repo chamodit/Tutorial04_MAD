@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClassApp</string>
+    <string name="user">Username</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="btnSelect">Select All</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSIgnin">Sign In</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">Update</string>
+</resources>
